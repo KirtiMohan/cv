@@ -1,0 +1,26 @@
+body {
+    background-color: #FCFFE7;
+    color: #2B3467;
+    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: #EB455F;
+    height: 0px;
+    width: 20%;
+}
+
+h1,h3,h2 {
+    color: #BAD7E9;
+    font-family: "Times New Roman", Times, serif;
+    
+
+}
+
+img {
+    border-radius: 100px;
+}
+
